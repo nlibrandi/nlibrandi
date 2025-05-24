@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="www.linkedin.com/in/nicolas-librandi-4b154340" />][linkedin]
+[<img align="left" alt="_| LinkedIn" width="22px" src="www.linkedin.com/in/nicolas-librandi-4b154340" />][linkedin]
 
 
 [twitter]: https://twitter.com/___________
